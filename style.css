@@ -1,0 +1,50 @@
+div {
+    padding-top: 1px;
+    background-color: rgb(153, 146, 146);
+    height: 150px;
+    width: 325px;
+}
+
+h1 {
+    background-color: red;
+    color: white;
+    margin: 20px 10px 0px 10px;
+    
+    font-family: monospace;
+    font-weight: bold;
+    font-size: xx-large;
+    width: 300px;
+    height: 30px;
+    text-align: center;
+    border-radius: 10px 10px 0 0;
+}
+
+h3 {
+    background-color:red;
+    color: white;
+    margin: 0 10px;
+    font-family: monospace;
+    font-size: large;
+    width: 300px;
+    height: 25px;
+    text-align: center;
+}
+
+h2 {
+    background-color: white;
+    margin: 0 10px;
+    font-family: cursive;
+    font-size: small;
+    text-align: center;
+    width: 300px;
+    height: 30px;
+    padding-top: 10px;
+}
+
+footer {
+    background: red;
+    margin: 0 10px;
+    width: 300px;
+    height:20px;
+    border-radius: 0 0 10px 10px;
+}
